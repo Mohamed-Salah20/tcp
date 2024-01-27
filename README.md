@@ -1,10 +1,10 @@
 # TCP
 command line chat java application based on the tcp protocol with multi-client multi-threading
-### To Download:
+### -To Download:
 git clone https://github.com/Mohamed-Salah20/tcp.git
-### then change directory to the file
+### -then change directory to the file
 cd tcp
-## To install:
+## -To install:
 ### -First check java jdk is installed & working :
 java --version
 ### -compile two programs that include main functions Client.java, ServerMain.java:
@@ -15,5 +15,5 @@ javac ServerMain.java ;
 java ServerMain
 ### -in other terminals run any number of clients:
 java Client
-### To exit program:
+### -To exit program:
 exit
