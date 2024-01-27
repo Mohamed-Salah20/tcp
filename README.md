@@ -2,7 +2,7 @@
 command line chat java application based on the tcp protocol with multi-client multi-threading
 ### -To Download:
 git clone https://github.com/Mohamed-Salah20/tcp.git
-### -then change directory to the file
+### -then go to the project directory:
 cd tcp
 ## -To install:
 ### -First check java jdk is installed & working :
