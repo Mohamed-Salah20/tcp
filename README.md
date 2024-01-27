@@ -1,6 +1,6 @@
 # tcp
 command line chat java application based on the tcp protocol with multi-client multi-threading
-#To Run The App:
+# To Run The App:
 -check java jdk is installed :
 java --version
 -compile two programs that include main functions Client.java, ServerMain.java:
