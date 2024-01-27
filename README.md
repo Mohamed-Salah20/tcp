@@ -4,13 +4,14 @@ command line chat java application based on the tcp protocol with multi-client m
 git clone https://github.com/Mohamed-Salah20/tcp.git
 ### then change directory to the file
 cd tcp
-## To Run The App:
+## To install:
 ### -First check java jdk is installed & working :
 java --version
 ### -compile two programs that include main functions Client.java, ServerMain.java:
 javac Client.java ;
 javac ServerMain.java ;
-### -run the server first:
+## To run the app
+### -make sure to run the server first:
 java ServerMain
 ### -in other terminals run any number of clients:
 java Client
