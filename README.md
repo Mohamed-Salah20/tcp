@@ -1,5 +1,5 @@
 # TCP
-command line chat java application based on the tcp protocol with multi-client multi-threading
+command line chat java application based on the tcp protocol with multi-client multi-threading, Server IP address: localhost, PORT number: 2025 
 ### -To Download:
 git clone https://github.com/Mohamed-Salah20/tcp.git
 ### -then go to the project directory:
